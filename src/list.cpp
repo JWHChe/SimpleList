@@ -58,10 +58,11 @@ void List::delete_item(){
         cin >> choice;
         if (choice >=0 && choice <(int)list.size()) {
             list.erase(list.begin() + choice);
+        } else {
+            cout << "Not correct index number." << endl;
         }
 
-    } else
-    {
+    } else  {
         cout << "No item to delete.\n";
     } 
     print_menu();   
