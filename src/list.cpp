@@ -15,7 +15,7 @@ void List::print_menu(){
     switch (choice)
     {
     case 4:
-        exit(0);
+        return;
         break;
     case 2 :
         add_item();
@@ -74,7 +74,7 @@ void List::print_list(){
     if (list.size()){
         for (int i = 0; i < (int)list.size(); i++)
         {
-            cout << "* " << list[i] << endl;        }        
+            cout << " * " << list[i] << endl;        }        
     } else
     {
         cout << "No item in the list.\n";
@@ -85,8 +85,9 @@ void List::print_list(){
     cin >> choice;
     if (choice=='M' || choice =='m'){
         print_menu();
-    }else {
+    }
+    else {
         cout << "Invalid choice.  Quitting...\n";
-        exit(0);
+        return;
     }
 }
