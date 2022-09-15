@@ -73,10 +73,9 @@ void List::print_list(){
     cout << "*** Printing list ***\n";
     if (list.size()){
         for (int i = 0; i < (int)list.size(); i++)
-        {
-            cout << " * " << list[i] << endl;        }        
-    } else
-    {
+            cout << " * " << list[i] << endl;            
+    } 
+    else {
         cout << "No item in the list.\n";
     } 
     

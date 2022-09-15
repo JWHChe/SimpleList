@@ -1,0 +1,23 @@
+[33mcommit 5512a94c49a1f271159ba372307d38394e1c9ac3[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: JWHChe <jcheng3305@gmail.com>
+Date:   Thu Sep 15 10:51:03 2022 +0800
+
+    Add database
+
+[33mcommit 1b840afaa6dc65b0156e4561757ed1ab3f91ab99[m
+Author: JWHChe <jcheng3305@gmail.com>
+Date:   Wed Sep 14 16:31:45 2022 +0800
+
+    Updated delete_item()
+
+[33mcommit a32e1d6432d6c96addf2195cb1f0457133ba99ba[m
+Author: JWHChen <jcheng3305@gmail.com>
+Date:   Wed Sep 14 14:28:45 2022 +0800
+
+    first commit
+
+[33mcommit d1856ef11597a4b879fccc45f48fb23447a01282[m
+Author: JWHChen <jcheng3305@gmail.com>
+Date:   Wed Sep 14 14:20:38 2022 +0800
+
+    First Commit
