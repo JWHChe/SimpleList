@@ -8,9 +8,10 @@ int main(int arg_count, char *args[]){
     if (arg_count >1) {
         //string name (args[1]);              // args[0] - name of program
         simpleList.name = string(args[1]);
+        simpleList.mainList = data.read();
+        simpleList.find_userList();        
         simpleList.print_menu();
-        data.write(simpleList.list);
-        data.read();
+        data.write(simpleList.mainList);
     } 
     else {
         cout << "Username not supplied... Exiting the program." << endl;            

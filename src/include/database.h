@@ -13,11 +13,11 @@ class Database {
     ~Database(){        // destructor
     }
     
-    vector<string> list;            //dynamic store of a list of string
+    vector<vector<string>> mainList;            //dynamic store of 2 dimensional list of string
     string name;
 
-    void write(vector<string> list);
-    void read();
+    void write(vector<vector<string>> mainList);
+    vector<vector<string>> read();
 };
 
 
