@@ -1,2 +1,2 @@
 # SimpleList
-![monitor](https://github.com/user-attachments/assets/2367e617-6e3a-402a-a33b-84091e4b9efa)
+![footprintFavicon](https://github.com/user-attachments/assets/c3749303-aaf4-456e-9521-65d87b73115e)
