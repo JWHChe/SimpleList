@@ -1,2 +1,2 @@
 # SimpleList
-![Screenshot 2025-04-23 090012](https://github.com/user-attachments/assets/a3dd5d8f-d950-4c28-8807-f022f6f1e93b)
+![monitor](https://github.com/user-attachments/assets/2367e617-6e3a-402a-a33b-84091e4b9efa)
